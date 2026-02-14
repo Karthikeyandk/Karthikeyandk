@@ -4,8 +4,8 @@ Junior Cloud DevOps Engineer @ Ex-Zustpe Technologies Private Limited
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://karthikeyan-d.netlify.app/)                                                 
 - 🌱 I’m currently learning MERN stack to get into a FULL-STACK DEVELOPER.
-- Engineeing at [Meenakshi College of Engineering](https://mce.edu.in)
-- Previously worked with [Zustpe Technologies Private Limited](https://zustpe.com/) 
+- 🎓 Master Degree at [Meenakshi College of Engineering](https://mce.edu.in)
+- 🧑‍💻 Previously worked with [Zustpe Technologies Private Limited](https://zustpe.com/) 
 
 - ⚡ Fun fact: I'm a Creator.
 - Social Presence
