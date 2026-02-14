@@ -7,7 +7,7 @@ Junior Cloud DevOps Engineer @ Ex-Zustpe Technologies Private Limited
 - Engineeing at [Meenakshi College of Engineering](https://mce.edu.in)
 - Previously worked with [Zustpe Technologies Private Limited](https://zustpe.com/) 
 
-- ⚡ Fun fact: I'm a Creator<img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>.
+- ⚡ Fun fact: I'm a Creator.
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/karthikeyandotd) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/karthikeyan-d978978/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/your_friend_dk/)
 
