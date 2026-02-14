@@ -5,7 +5,7 @@ Junior Cloud DevOps Engineer @ Ex-Zustpe Technologies Private Limited
 - 🔭 Here's my [portfolio](https://karthikeyan-d.netlify.app/)                                                 
 - 🌱 I’m currently learning MERN stack to get into a FULL-STACK DEVELOPER.
 - Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
-- Previously worked with <img src="https://drive.google.com/file/d/1e6ChSk78-PepvP9qFvRSB_E8Pacp2gHr/view?usp=drivesdk" width="48" height="48" alt="Zustpe"/>
+- Previously worked with [Zustpe Technologies Private Limited]([portfolio](https://drive.google.com/file/d/1e6ChSk78-PepvP9qFvRSB_E8Pacp2gHr/view?usp=drivesdk) 
 
 - ⚡ Fun fact: I a Creator.
 - Social Presence
