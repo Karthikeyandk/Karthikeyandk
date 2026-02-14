@@ -15,8 +15,9 @@ Junior Cloud DevOps Engineer @ Ex-Zustpe Technologies Private Limited
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 ### I worked in
 <img width="48" height="48" src="https://img.icons8.com/color/48/amazon-web-services.png" alt="amazon-web-services"/><img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/><img width="48" height="48" src="https://img.icons8.com/color/48/docker.png" alt="docker"/><img width="48" height="48" src="https://img.icons8.com/color/48/postman-api.png" alt="postman"/><img width="48" height="48"
-     src="https://cdn.simpleicons.org/amazonec2/FF9900"
+     src="https://img.icons8.com/color/48/cloud.png"
      alt="Amazon EC2"/>
+
 
 
 ### IDE and Tools I Use
